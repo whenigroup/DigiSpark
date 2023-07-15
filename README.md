@@ -26,4 +26,4 @@ El programa en Python desarrollado para este proyecto permitirá a los usuarios 
 
 Con Digispark Scripts, esperamos fomentar el intercambio de conocimientos y la colaboración en la comunidad de automatización y hacking físico, proporcionando a los usuarios una plataforma sólida para explorar y aprender de forma segura. Estamos emocionados de brindar esta herramienta y estamos abiertos a la contribución de nuevos scripts y mejoras por parte de la comunidad, para así expandir constantemente las posibilidades y oportunidades que ofrece este proyecto.
 
-Made by: KevinFR  https://github.com/whenigroup
+**Made by:** KevinFR  https://github.com/whenigroup
