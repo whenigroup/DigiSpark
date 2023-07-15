@@ -12,7 +12,7 @@ The Python program developed for this project will allow users to select from a 
 
 With Digispark Scripts, we aim to foster knowledge sharing and collaboration within the automation and physical hacking community, providing users with a robust platform for safe exploration and learning. We are excited to provide this tool and are open to contributions of new scripts and improvements from the community, thus constantly expanding the possibilities and opportunities offered by this project.
 
-_________________________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________________________
 
 ¿De que trata este proyecto?
 
