@@ -14,7 +14,7 @@ With Digispark Scripts, we aim to foster knowledge sharing and collaboration wit
 
 _________________________________________________________________________________________________________________________________________
 
-De que trata este proyecto?
+¿De que trata este proyecto?
 
 Digispark Scripts es un proyecto que nace con el propósito de difundir información y conocimientos en el campo de la automatización de tareas y el hacking físico. La automatización de tareas se refiere a la capacidad de programar dispositivos para llevar a cabo acciones específicas de manera autónoma, mientras que el hacking físico implica explorar y manipular sistemas físicos y electrónicos con fines educativos y de seguridad.
 
