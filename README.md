@@ -12,6 +12,8 @@ The Python program developed for this project will allow users to select from a 
 
 With Digispark Scripts, we aim to foster knowledge sharing and collaboration within the automation and physical hacking community, providing users with a robust platform for safe exploration and learning. We are excited to provide this tool and are open to contributions of new scripts and improvements from the community, thus constantly expanding the possibilities and opportunities offered by this project.
 
+_________________________________________________________________________________________________________________________________________
+
 De que trata este proyecto?
 
 Digispark Scripts es un proyecto que nace con el propósito de difundir información y conocimientos en el campo de la automatización de tareas y el hacking físico. La automatización de tareas se refiere a la capacidad de programar dispositivos para llevar a cabo acciones específicas de manera autónoma, mientras que el hacking físico implica explorar y manipular sistemas físicos y electrónicos con fines educativos y de seguridad.
